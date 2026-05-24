@@ -6,7 +6,7 @@ Each project here represents real work done during my internship —
 from raw data to clean insights, dashboards, and business findings.
 
 ## 🛠 Tools I'm Working With
-Python · SQL · Excel · Power BI · Pandas · Matplotlib
+Python · SQL · Tableau · Excel · Power BI · Pandas · Matplotlib
 
 ## 🎯 Goal
 To build practical data skills by working on real business problems
