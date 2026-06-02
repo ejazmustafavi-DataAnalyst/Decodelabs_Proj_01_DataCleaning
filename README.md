@@ -1,13 +1,25 @@
-# Decodelabs_Projects
+# Project 1: Data Cleaning
 
-This repository documents my journey as a **Data Analytics Intern at Decodelabs**.
+## Overview
+This project focuses on cleaning and preparing raw data for analysis. The objective is to identify and handle missing values, remove duplicates, standardize formats, and improve overall data quality.
 
-Each project here represents real work done during my internship —
-from raw data to clean insights, dashboards, and business findings.
+## Project Goals
+- Inspect raw dataset quality
+- Handle missing and inconsistent values
+- Remove duplicate records
+- Standardize data formats
+- Prepare a clean dataset for downstream analytics
 
-## 🛠 Tools I'm Working With
-Python · SQL · Tableau · Excel · Power BI · Pandas · Matplotlib
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
 
-## 🎯 Goal
-To build practical data skills by working on real business problems
-and document every step clearly for learning and reference.
+## Deliverables
+- Data cleaning notebook
+- Cleaned dataset
+- Documentation of cleaning steps
+
+## Learning Outcomes
+This project demonstrates practical data preparation techniques that form the foundation of effective analytics and business intelligence workflows.
