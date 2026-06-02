@@ -14,7 +14,7 @@ This project focuses on cleaning and preparing raw data for analysis. The object
 - Python
 - Pandas
 - NumPy
-- Jupyter Notebook
+- VS Code
 
 ## Deliverables
 - Data cleaning notebook
